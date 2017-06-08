@@ -54,7 +54,7 @@ z = Int(string)
 
 // Example 2
 class AnotherViewController: UIViewController {
-    //var anotherButton: UIButton
+    var anotherButton: UIButton?
 }
 
 
